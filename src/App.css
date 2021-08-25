@@ -1,8 +1,34 @@
-.App {
-  text-align: center;
+.navbar {
+  text-align: right;
+  text-decoration: none;
+  padding: 30px;
+  background-color: black;
+  font-style: oblique;
 }
 
-.App-logo {
+
+h1{
+  text-align: center;
+  font-family:'Bradley Hand'
+}
+
+img{
+  height: 250px;
+  width: 250px;
+  margin-left: 20px;
+}
+
+
+#about-me{
+  font-weight: bold;
+  width: 75%;
+  padding-left: 290px;
+  
+} 
+
+
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +61,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
