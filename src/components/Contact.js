@@ -1,5 +1,6 @@
 export default function Contact() {
     return (
+        <div id="contact-container">
         <div className="contact-div">
             <h1>Contact</h1>
 
@@ -31,6 +32,7 @@ export default function Contact() {
                 />
             </form>
 
+        </div>
         </div>
     )
 }
