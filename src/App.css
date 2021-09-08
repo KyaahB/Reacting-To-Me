@@ -96,10 +96,15 @@ input{
 
 
 
+/* Portfolio---------------------------------------------------------------------*/
 
 
-
-
+.portfolio-imgs{
+  display: flex;
+  height: 10px;
+  width: 20px;
+  
+}
 
 
 
