@@ -33,14 +33,11 @@ function App() {
             </Route>
           </Switch>
         </div>
+      <Footer />
       </Router>
-      <Footer 
-      />
     </div>
   );
 }
 
 export default App;
 
-// the footer isnt stagnant
-// 
