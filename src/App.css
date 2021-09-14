@@ -112,7 +112,7 @@ input{
 
 /* Footer--------------------------------------- */
 
-.footer{
+.footer *{
   background-color: black;
   padding: 20px; 
   position: absolute; 

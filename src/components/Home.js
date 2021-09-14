@@ -8,7 +8,15 @@ export default function Home() {
       alt="new"
       />      
 
-      <p id="about-me">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>  
+      <p id="about-me">
+          My name is Kyaah Ellis. I'm a 26 year old, currently living in Chicago, Illinois. In the past i've worked in
+          many
+          different environments. Some of my past job fields included customer service, mailroom clerk and my most
+          exciting
+          a chef which I got from going and obtaining my degree from Le Cordon Bleu. Currently, I attend the Coding
+          Bootcamp
+          at Northwestern and even though my career path hasn't been linear, it has exposed me to many different
+          environments, people and skills which has made me a quick learner and great at adapting in foreign spaces.</p>  
       </div>
     )
 }
